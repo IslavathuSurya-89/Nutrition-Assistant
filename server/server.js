@@ -6,8 +6,10 @@ const connectDB = async () => {
   await conn();
 };
 
-// Load env vars
-dotenv.config();
+// Load env vars from project root
+const path = require('path');
+dotenv.config({ path: path.resolve(__dirname, '../.env') });
+
 
 // Connect to database
 connectDB();
