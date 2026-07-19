@@ -4,10 +4,8 @@ This folder contains all materials necessary for presenting the final product to
 
 ## Live Project Links
 * **Frontend Deployment:** [Nutrition Assistant on Vercel](https://nutrition-assistant-ten.vercel.app/)
-* **Backend Deployment:** (Link to Render/Heroku if applicable)
+* **Backend Deployment:** (https://nutrition-assistant-api.onrender.com)
 * **GitHub Repository:** [IslavathuSurya-89/Nutrition-Assistant](https://github.com/IslavathuSurya-89/Nutrition-Assistant)
 
 ## Presentation Materials
-* Slide deck (PowerPoint / Google Slides link).
-* Video demonstration link (e.g., YouTube or Loom).
-* High-resolution screenshots of the final working application.
+**project video demo link:**  https://drive.google.com/file/d/1qSYxZaZ1YlfyhAmkOxF3N0Kg1IWGlVK6/view
